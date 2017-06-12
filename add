@@ -1,0 +1,7 @@
+#include <stdio.h>
+void main(void)
+{
+int a = 1;
+int b= 3;
+printf("a+b is %d \n",a+b);
+}
